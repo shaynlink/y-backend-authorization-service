@@ -14,6 +14,9 @@ dependencies:
   dotenv:
     specifier: ^16.4.5
     version: 16.4.5
+  express:
+    specifier: ^4.19.2
+    version: 4.19.2
   jsonwebtoken:
     specifier: ^9.0.2
     version: 9.0.2
