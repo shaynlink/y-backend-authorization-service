@@ -104,7 +104,7 @@ functions.http('authorization', async (req, res) => {
       return res.status(200).json({
         error: null,
         result: {
-          valide: false,
+          valide: true,
           decoded
         }
       });
